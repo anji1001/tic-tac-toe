@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 - Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-react.git
-   cd tic-tac-toe-react
+   git clone git@github.com:anji1001/tic-tac-toe.git
+   cd tic-tac-toe
 
 - npm install
 - npm run dev
